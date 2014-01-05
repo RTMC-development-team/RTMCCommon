@@ -12,3 +12,6 @@
 .classpath
 .settings/
 bin/
+
+# Maven stuff #
+dependency-reduced-pom.xml
